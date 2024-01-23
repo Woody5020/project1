@@ -827,7 +827,7 @@ body.fixed {
 	line-height: 20px;
 	font-size: 1.0625em;
 	padding-left: 28px;
-	text-wrap: nowrap;
+	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
 }
