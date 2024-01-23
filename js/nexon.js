@@ -1,6 +1,5 @@
 window.addEventListener("DOMContentLoaded", function(){
     let video=document.getElementById("main_video");
-    main_video.muted=true; 
 	video.addEventListener("loadeddata", function(){
         main_video.play();  
     });
